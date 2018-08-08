@@ -1,2 +1,2 @@
-# tradu-oMAA
-traduções para o Marvel Avengers Alliance
+# traduçãoMAA
+Traduções para o Marvel Avengers Alliance
