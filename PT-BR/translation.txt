@@ -1,0 +1,21 @@
+Open each of the XMLs in a text editor or XML editor, I use XML Copy Editor and Notepad.  
+
+For actions.xml, heroes.xml, villains.xml, items.xml, chapters.xml, statuses.xml, and missions.xml
+
+Search for dispName and replace between the > and < 
+<dispName>Dance of Blood</dispName>  is the first one in actions.
+Replace "Dance of Blood" with the translated text.
+
+Continue to do this for every entry of <dispName>
+
+Do the same for <description>
+
+save as an xml.
+
+
+For Dialog Groups.xml  you need to replace, <displayName> and <message>.
+
+For locale strings.xml you need to replace <text>.  Do not replace items in between { and }.
+
+
+If a text is in all caps replace with all caps.
