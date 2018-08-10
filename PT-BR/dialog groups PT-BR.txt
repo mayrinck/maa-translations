@@ -25,7 +25,7 @@
           <heroId>d5f61a10-e94c-11e5-a215-065676001937</heroId>
           <imageAssetId>a/fs/eps0001.png</imageAssetId>
           <layout>10</layout>
-          <message>Eu pensei que você era um grande ciborgue assassino durão! Você não pode nem pegar um garoto de 10 anos! Me pegue se puder!</message>
+          <message>Eu pensei que você era um grande ciborgue murdery duro! Você não pode nem pegar um ten-year-old! Ha! Apanha-me se puderes!</message>
           <name>SM33_G71_L02</name>
           <sequenceNum>2</sequenceNum>
           <dialogActions>
