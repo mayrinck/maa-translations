@@ -1,8 +1,8 @@
   <items>
     <item>
       <className>Key</className>
-      <description>By combining the magical components, it is possible to create a weapon of legendary power, with the right direction.</description>
-      <dispName>Design: Shepherd's Staff</dispName>
+      <description>Combinando os componentes lendários, é possivel criar uma arma de poder lendário, com o direcionamento certo.</description>
+      <dispName>Design: Cajado do Pastor</dispName>
       <iconAssetId>a/fs/5xy0003.png</iconAssetId>
       <id>00269180-d7bb-11e2-bb9c-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -14,8 +14,8 @@
     </item>
     <item>
       <className>Key</className>
-      <description>Plans for a prototype assault suit designed by Stark Industries to render enemies defenseless.</description>
-      <dispName>Blueprint: Blaster's Aegis Armor</dispName>
+      <description>Diagrama de planejamento para um protótipo de armadura de assalto produzida pelas Industrias Stark para destruir defesas inimigas.</description>
+      <dispName>Diagrama: Armadura Aegis do Detonador</dispName>
       <iconAssetId>a/fs/7k10006.png</iconAssetId>
       <id>00353780-d7bb-11e2-bb9c-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -39,7 +39,7 @@
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Classic Tigra</dispName>
+      <dispName>Tigresa Classica</dispName>
       <id>02883560-3ff3-11e2-828f-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/5ye0007.png</largeAssetId>
@@ -115,7 +115,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Caffeinated Iso-8</dispName>
+      <dispName>ISO-8 Cafeinada</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>232db830-7c0f-11e4-b60d-065676001937</heroWhitelist>
@@ -139,7 +139,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Finishing Iso-8</dispName>
+      <dispName>ISO-8 Finalizadora</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>589c9360-5aab-11e2-b3a0-0025906a2be6</heroWhitelist>
@@ -161,7 +161,7 @@
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Nico Minoru</dispName>
+      <dispName>Nico Minoru Moderna</dispName>
       <id>02d5c600-6373-11e3-b431-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/9f40006.png</largeAssetId>
@@ -238,7 +238,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Blinding Iso-8</dispName>
+      <dispName>ISO-8 Cegante</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>dcdea2e0-ad73-11e4-b640-065676001937</heroWhitelist>
@@ -262,7 +262,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Resistant Iso-8</dispName>
+      <dispName>ISO-8 Resistente</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>91e947e0-1291-11e4-95fb-0025906a2be6</heroWhitelist>
@@ -286,7 +286,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Loaded Iso-8</dispName>
+      <dispName>ISO-8 Carregada</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>60109d10-c0d7-11e3-80ab-0025906a2be6</heroWhitelist>
@@ -310,7 +310,7 @@
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>05658b5742d3950e0fe9d5a8a95a9af1</costId>
-      <dispName>Nocking Iso-8</dispName>
+      <dispName>ISO-8 Preparada</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1446188340</expireDate>
       <heroWhitelist>5b78257f-5fd5-11e0-9712-000c29c9984d</heroWhitelist>
@@ -332,7 +332,7 @@
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Red Hulk</dispName>
+      <dispName>Hulk Vermelho Moderno</dispName>
       <id>03508ea0-c17d-11e2-8dab-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/78u0006.png</largeAssetId>
@@ -406,7 +406,7 @@
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Classic Moonstone</dispName>
+      <dispName>Pedra Lunar Clássica</dispName>
       <id>0390ffb0-6373-11e3-b431-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/9fc0006.png</largeAssetId>
@@ -485,7 +485,7 @@
     <item>
       <className>PowerupPack</className>
       <defensiveBonus>0.32</defensiveBonus>
-      <description>Deliciously restores both Health and Stamina to one ally</description>
+      <description>Esta delicia restaura Vida e Stamina para um aliado.</description>
       <dispName>Shawarma</dispName>
       <iconAssetId>a/fs/4qd0009.png</iconAssetId>
       <id>03e351c0-a696-11e1-8650-000c2941c9ad</id>
@@ -577,9 +577,8 @@
     <item>
       <className>Lockbox</className>
       <costId>c91be989cca88ebc034c7120f1fc2198</costId>
-      <description>"Strap yourself in before opening"
-Collect Shocking Lockboxes to unlock Shocker</description>
-      <dispName>Shocking Lockbox</dispName>
+      <description>Abra caixas chocantes para ter uma chance de adquirir o Shocker!</description>
+      <dispName>Caixa Chocante</dispName>
       <iconAssetId>a/fs/eu50001.png</iconAssetId>
       <id>04a27ed0-f474-11e5-9d93-065676001937</id>
       <itemType>lockbox</itemType>
@@ -635,7 +634,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <costId>77fd9a5961bc255d255b9a8e9c9460d9</costId>
-      <dispName>Kuurth, Breaker of Stone</dispName>
+      <dispName>Kuurth, Quebrador de Pedras</dispName>
       <id>04f886f0-c78d-11e4-9520-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/ccv0002.png</largeAssetId>
@@ -710,7 +709,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <costId>77fd9a5961bc255d255b9a8e9c9460d9</costId>
-      <dispName>Kuurth, Breaker of Stone</dispName>
+      <dispName>Kuurth, Quebrador de Pedras</dispName>
       <id>051dc230-c78d-11e4-9520-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/ccv0002.png</largeAssetId>
@@ -784,7 +783,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Uncanny Rogue</dispName>
+      <dispName>Fabulosa Vampira</dispName>
       <id>054bc890-e0c4-11e1-a315-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/56c0009.png</largeAssetId>
@@ -860,8 +859,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Surprisingly slim for a hard hitter</description>
-      <dispName>Ruby Quartz Rifle</dispName>
+      <description>Surpreendentemente pequeno para algo que machuca tanto...</description>
+      <dispName>Rifle de Quartzo de Rubí</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5hw0008.png</iconAssetId>
@@ -879,7 +878,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>A classic from a simpler era</description>
+      <description>Algo clássico de uma era mais simples...</description>
       <dispName>M1911 Patriot</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
@@ -897,8 +896,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Great shots without the attitude</description>
-      <dispName>Marksman's Spotter</dispName>
+      <description>Grandes tiros e pouco trabalho</description>
+      <dispName>Mira de Atirador</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/5hy0008.png</iconAssetId>
       <id>055eb4e0-00f0-11e2-a618-0025906a2be6</id>
@@ -915,7 +914,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <className>Gear</className>
       <costId>c9306c193032e69620aecff5784fe57e</costId>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Arc Reactor Charge</dispName>
+      <dispName>Carga do Reator Arc</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1371927600</expireDate>
       <iconAssetId>a/fs/5hz0008.png</iconAssetId>
@@ -933,7 +932,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Limbo Firestarter</dispName>
+      <dispName>Incendiador do Limbo</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/5i60008.png</iconAssetId>
       <id>0569ff80-00f0-11e2-a618-0025906a2be6</id>
@@ -949,7 +948,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Hex Wand</dispName>
+      <dispName>Varinha Mágica</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5i70008.png</iconAssetId>
@@ -967,8 +966,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>From Russia with love</description>
-      <dispName>Fist of the Colossus</dispName>
+      <description>Diretamente da mãe Russia, com todo amor!</description>
+      <dispName>Punho Colossal</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5c30008.png</iconAssetId>
@@ -987,8 +986,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <className>Gear</className>
       <costId>29626a20519666efee5e4dc5d264f2be</costId>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Ironically, not blood diamonds</description>
-      <dispName>Girl's Best Friend</dispName>
+      <description>Ironicamente, não são diamantes.</description>
+      <dispName>Melhor amigo das Garotas</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5hr0008.png</iconAssetId>
@@ -1008,8 +1007,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Insulated for non-Asgardians</description>
-      <dispName>Thunder Strike</dispName>
+      <description>Para uso de não-asgardianos</description>
+      <dispName>Golpe de Trovão</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5hs0009.png</iconAssetId>
@@ -1063,7 +1062,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>2.34</defensiveBonus>
-      <dispName>Souldrainer</dispName>
+      <dispName>Drena-Almas</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5i80008.png</iconAssetId>
@@ -1082,7 +1081,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>2.5</defensiveBonus>
-      <dispName>Phoenix Flare</dispName>
+      <dispName>Clarão da Fênix</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1371927600</expireDate>
       <genericTags>reforge</genericTags>
@@ -1102,7 +1101,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>2.26</defensiveBonus>
-      <dispName>Phoenix Talon</dispName>
+      <dispName>Pena da Fênix</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5cu0010.png</iconAssetId>
@@ -1120,7 +1119,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>2.26</defensiveBonus>
-      <dispName>Phoenix Pinion</dispName>
+      <dispName>Espada da Fênix</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5d20008.png</iconAssetId>
@@ -1139,7 +1138,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <className>Gear</className>
       <costId>c9306c193032e69620aecff5784fe57e</costId>
       <defensiveBonus>1.71</defensiveBonus>
-      <dispName>Cosmic Flame</dispName>
+      <dispName>Chama Cosmica</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1371927600</expireDate>
       <iconAssetId>a/fs/5i10009.png</iconAssetId>
@@ -1158,7 +1157,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.17</defensiveBonus>
-      <dispName>Das Boot</dispName>
+      <dispName>Chutão</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5c10008.png</iconAssetId>
@@ -1196,7 +1195,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.03</defensiveBonus>
-      <dispName>Fantastic Fix</dispName>
+      <dispName>Conserto Fantastico</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5bz0009.png</iconAssetId>
@@ -1216,8 +1215,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Stink eye of Ra...</description>
-      <dispName>Gaze of Ra</dispName>
+      <description>O olho fedorento de Rá...</description>
+      <dispName>Olho de Rá</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9p10006.png</iconAssetId>
@@ -1235,8 +1234,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Create some havok!</description>
-      <dispName>Scythe of Atum</dispName>
+      <description>Destruição Garantida!</description>
+      <dispName>Foice Destruidora</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9oo0006.png</iconAssetId>
@@ -1253,8 +1252,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Let others do the Sacrificing</description>
-      <dispName>Psychic Sacrificer Staff</dispName>
+      <description>Deixe que outros se sacrifiquem...</description>
+      <dispName>Cajado do Sacrifício</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9os0006.png</iconAssetId>
@@ -1271,8 +1270,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>The strong will survive</description>
-      <dispName>En Sabah Nur's Liberator</dispName>
+      <description>Os fortes sobreviverão!</description>
+      <dispName>Liberador de En Sabah Nur's</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9op0007.png</iconAssetId>
@@ -1290,8 +1289,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Apocalypse despises weakness</description>
-      <dispName>Apocalypse's Subjugator</dispName>
+      <description>Apocalypse detesta fracotes...</description>
+      <dispName>Subjulgador do Apocalypse</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9oy0007.png</iconAssetId>
@@ -1309,8 +1308,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Be strong or perish</description>
-      <dispName>Hand of Apocalypse</dispName>
+      <description>Seja forte, ou irá perecer!</description>
+      <dispName>Mão do Apocalypse</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9ox0007.png</iconAssetId>
@@ -1327,8 +1326,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>An ounce of prevention is over rated anyway</description>
-      <dispName>A Pound of Cure</dispName>
+      <description>Melhor prevenir do que remediar...</description>
+      <dispName>Punhado de Cura</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9p90006.png</iconAssetId>
@@ -1346,7 +1345,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Boots that work as hard as you do</description>
+      <description>Botas que trabalham tão duro quanto você</description>
       <dispName>Hobnail</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
@@ -1364,8 +1363,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>It's icy!</description>
-      <dispName>Ice Sickle</dispName>
+      <description>É gelo mesmo! De verdade!</description>
+      <dispName>Ponta de Gelo</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9p30006.png</iconAssetId>
@@ -1382,7 +1381,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
-      <description>Best let others pay up...</description>
+      <description>Melhor deixar pros outros...</description>
       <dispName>Famine's Toll</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
@@ -1418,7 +1417,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>26.73</defensiveBonus>
-      <dispName>No Mercy</dispName>
+      <dispName>Sem Misericórdia</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1451289540</expireDate>
       <genericTags>reforge</genericTags>
@@ -1476,7 +1475,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>4.16</defensiveBonus>
-      <dispName>Scrapper's Empowered² Trench</dispName>
+      <dispName>Casaco Empoderado² de Briguento</dispName>
       <id>0807ce30-69d4-11e4-9dfc-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/c8t0002.png</largeAssetId>
@@ -1599,7 +1598,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>6.65</defensiveBonus>
-      <dispName>Bruiser's Empowered² Trench</dispName>
+      <dispName>Casaco Empoderado² de Brutamontes</dispName>
       <id>082df3d0-69d4-11e4-9dfc-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/c080002.png</largeAssetId>
@@ -1648,7 +1647,7 @@ Collect Shocking Lockboxes to unlock Shocker</description>
       <bindOnEquip>false</bindOnEquip>
       <className>Gear</className>
       <costId>adc723cb9356821b00281900c0a5af7a</costId>
-      <dispName>Thor's Tutelage Empowered Iso-8</dispName>
+      <dispName>ISO-8 Poderosa (Tutela de Thor)</dispName>
       <dynamicQlevel>false</dynamicQlevel>
       <expireDate>1444373940</expireDate>
       <heroWhitelist>c18f53d6-9884-11e0-8b13-000c295e424d</heroWhitelist>
@@ -1671,9 +1670,8 @@ Collect Shocking Lockboxes to unlock Shocker</description>
     <item>
       <className>Lockbox</className>
       <costId>c91be989cca88ebc034c7120f1fc2198</costId>
-      <description>"Cryogenically sealed"
-Collect Iceboxes to unlock Blizzard</description>
-      <dispName>Icebox</dispName>
+      <description>Colete Caixas Congeladas para ter a chance de obter Nevasca!</description>
+      <dispName>Caixa Congelada</dispName>
       <iconAssetId>a/fs/d940002.png</iconAssetId>
       <id>094a6190-4c37-11e5-bc52-065676001937</id>
       <itemType>lockbox</itemType>
