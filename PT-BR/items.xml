@@ -2,7 +2,7 @@
     <item>
       <className>Key</className>
       <description>Combinando os componentes lendários, é possivel criar uma arma de poder lendário, com o direcionamento certo.</description>
-      <dispName>Design: Cajado do Pastor</dispName>
+      <dispName>Diagrama: Cajado do Pastor</dispName>
       <iconAssetId>a/fs/5xy0003.png</iconAssetId>
       <id>00269180-d7bb-11e2-bb9c-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -485,7 +485,7 @@
     <item>
       <className>PowerupPack</className>
       <defensiveBonus>0.32</defensiveBonus>
-      <description>Esta delicia restaura Vida e Stamina para um aliado.</description>
+      <description>Esta delicia restaura bastante Vida e Stamina para um aliado.</description>
       <dispName>Shawarma</dispName>
       <iconAssetId>a/fs/4qd0009.png</iconAssetId>
       <id>03e351c0-a696-11e1-8650-000c2941c9ad</id>
@@ -517,7 +517,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.73</defensiveBonus>
-      <dispName>Iso-8 - Health 4%</dispName>
+      <dispName>Iso-8 - Vida +4%</dispName>
       <iconAssetId>a/fs/3u60011.png</iconAssetId>
       <id>04816890-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_HP</itemGroup>
@@ -532,7 +532,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.37</defensiveBonus>
-      <dispName>Iso-8 - Stamina 4%</dispName>
+      <dispName>Iso-8 - Resistencia +4%</dispName>
       <iconAssetId>a/fs/3u60011.png</iconAssetId>
       <id>048b7ab0-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_SP</itemGroup>
@@ -547,7 +547,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.37</defensiveBonus>
-      <dispName>Iso-8 - Attack 4%</dispName>
+      <dispName>Iso-8 - Ataque +4%</dispName>
       <iconAssetId>a/fs/3uh0011.png</iconAssetId>
       <id>049565c0-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_ATK</itemGroup>
@@ -562,7 +562,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.73</defensiveBonus>
-      <dispName>Iso-8 - Defense 4%</dispName>
+      <dispName>Iso-8 - Defesa +4%</dispName>
       <iconAssetId>a/fs/3uj0011.png</iconAssetId>
       <id>049f29c0-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_ACC</itemGroup>
@@ -604,7 +604,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.37</defensiveBonus>
-      <dispName>Iso-8 - Accuracy 4%</dispName>
+      <dispName>Iso-8 - Precisão +4%</dispName>
       <iconAssetId>a/fs/3uh0011.png</iconAssetId>
       <id>04a98a00-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_DEF</itemGroup>
@@ -619,7 +619,7 @@
     <item>
       <className>Gear</className>
       <defensiveBonus>0.73</defensiveBonus>
-      <dispName>Iso-8 - Evasion 4%</dispName>
+      <dispName>Iso-8 - Esquiva +4%</dispName>
       <iconAssetId>a/fs/3uj0011.png</iconAssetId>
       <id>04b41150-c791-11e0-9d63-000c29e2bf43</id>
       <itemGroup>Iso8_EVA</itemGroup>
@@ -699,7 +699,7 @@
       </infusedSlots>
       <heroOnly>true</heroOnly>
       <heroId>b792fc3b-5fcc-11e0-9712-000c29c9984d</heroId>
-      <heroDispNameOverride>KUURTH, BREAKER OF STONE</heroDispNameOverride>
+      <heroDispNameOverride>KUURTH, QUEBRADOR DE PEDRAS</heroDispNameOverride>
       <rightToastId>a/fs/cd00002.png</rightToastId>
       <statusIds>95b423a0-015b-11e4-9d8b-0025906a2be6,34fb9c00-c785-11e4-9520-065676001937,34c12b10-c785-11e4-9520-065676001937,338cc9c0-c785-11e4-9520-065676001937,04f5a0c0-c78d-11e4-9520-065676001937</statusIds>
       <actionIds>
@@ -774,7 +774,7 @@
       </infusedSlots>
       <heroOnly>true</heroOnly>
       <heroId>b792fc3b-5fcc-11e0-9712-000c29c9984d</heroId>
-      <heroDispNameOverride>KUURTH, BREAKER OF STONE</heroDispNameOverride>
+      <heroDispNameOverride>KUURTH, QUEBRADOR DE PEDRAS</heroDispNameOverride>
       <rightToastId>a/fs/cd00002.png</rightToastId>
       <statusIds>95b423a0-015b-11e4-9d8b-0025906a2be6,34fb9c00-c785-11e4-9520-065676001937,34c12b10-c785-11e4-9520-065676001937,338cc9c0-c785-11e4-9520-065676001937,051bc660-c78d-11e4-9520-065676001937</statusIds>
       <actionIds>
@@ -987,7 +987,7 @@
       <costId>29626a20519666efee5e4dc5d264f2be</costId>
       <defensiveBonus>1.37</defensiveBonus>
       <description>Ironicamente, não são diamantes.</description>
-      <dispName>Melhor amigo das Garotas</dispName>
+      <dispName>Melhor amiga das Garotas</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/5hr0008.png</iconAssetId>
@@ -1382,7 +1382,7 @@
       <className>Gear</className>
       <defensiveBonus>28.7</defensiveBonus>
       <description>Melhor deixar pros outros...</description>
-      <dispName>Famine's Toll</dispName>
+      <dispName>Pedágio de Famine</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/9ov0006.png</iconAssetId>
@@ -1522,7 +1522,7 @@
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Red She-Hulk</dispName>
+      <dispName>She-Hulk Vermelha Moderna</dispName>
       <id>081d0420-bf01-11e5-8070-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/ee40001.png</largeAssetId>
@@ -1698,9 +1698,8 @@
     <item>
       <className>Lockbox</className>
       <costId>c91be989cca88ebc034c7120f1fc2198</costId>
-      <description>"This box is crazy!"
-Collect Psycho Lockboxes to unlock Moonstone</description>
-      <dispName>Psycho Lockbox</dispName>
+      <description>Colete caixas psicóticas para uma chance de obter a Pedra Lunar!</description>
+      <dispName>Caixa Psicótica</dispName>
       <iconAssetId>a/fs/9eu0006.png</iconAssetId>
       <id>09fd52c0-637f-11e3-b431-0025906a2be6</id>
       <itemType>lockbox</itemType>
@@ -1725,8 +1724,8 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     </item>
     <item>
       <className>Key</className>
-      <description>After carefully studying traces of the Phoenix Force, we have been able to contain some of its essence left behind.</description>
-      <dispName>Blueprint: Phoenix Essence</dispName>
+      <description>Depois de um estudo detalhado dos rastros da Força da Fênix, conseguimos uma forma de armazenar os rastros que foram deixados para tras!</description>
+      <dispName>Diagrama: Essência de Fênix</dispName>
       <iconAssetId>a/fs/5fz0008.png</iconAssetId>
       <id>0a3b72d0-00f2-11e2-a618-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -1738,7 +1737,7 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     </item>
     <item>
       <className>Key</className>
-      <description>Allows upgrade of Faultseeker to Faulteater.</description>
+      <description>Uma arma forjada a partir da essência da Fênix. Pode receber um upgrade.</description>
       <dispName>Faultseeker</dispName>
       <iconAssetId>a/fs/5ct0009.png</iconAssetId>
       <id>0a4006b0-00f2-11e2-a618-0025906a2be6</id>
@@ -1751,8 +1750,8 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     </item>
     <item>
       <className>Key</className>
-      <description>Allows upgrade of Phoenix Talon to Phoenix Pinion.</description>
-      <dispName>Phoenix Talon</dispName>
+      <description>Uma espada forjada a partir da essência da Fênix. Pode receber um upgrade.</description>
+      <dispName>Espada da Fênix</dispName>
       <iconAssetId>a/fs/5cu0010.png</iconAssetId>
       <id>0a444c70-00f2-11e2-a618-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -1766,7 +1765,7 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
       <className>Gear</className>
       <costId>d4c12135844b58e6939802b35fbf2726</costId>
       <defensiveBonus>5.82</defensiveBonus>
-      <dispName>Infiltrator's Aegis Armor</dispName>
+      <dispName>Armadura Aegis do Infiltrador</dispName>
       <id>0a6b40c0-90ce-11e2-8a3e-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/6ry0006.png</largeAssetId>
@@ -1807,8 +1806,8 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>207.96</defensiveBonus>
-      <description>You can sense your IQ increasing</description>
-      <dispName>Evolutionary Fist</dispName>
+      <description>Da pra sentir o QI crescendo!</description>
+      <dispName>Punho Evolucionário</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/fid0001.png</iconAssetId>
@@ -1827,8 +1826,8 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>207.96</defensiveBonus>
-      <description>So many options...</description>
-      <dispName>Tactical Launcher</dispName>
+      <description>São tantas opções...</description>
+      <dispName>Lançador Tático</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/fi70001.png</iconAssetId>
@@ -1847,8 +1846,8 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>311.95</defensiveBonus>
-      <description>Bright and beautiful!</description>
-      <dispName>Glimmering Staff</dispName>
+      <description>Tão brilhante... Tão bonito... *-*</description>
+      <dispName>Cajado Reluzente</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/fi20001.png</iconAssetId>
       <id>0a9bc650-6ef6-11e6-a58e-065676001937</id>
@@ -1864,7 +1863,7 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Moon Knight</dispName>
+      <dispName>Cavaleiro da Lua Moderno</dispName>
       <id>0aa16770-383c-11e3-be1d-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/8pw0006.png</largeAssetId>
@@ -1939,7 +1938,7 @@ Collect Psycho Lockboxes to unlock Moonstone</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>415.93</defensiveBonus>
-      <dispName>Cosmic Stifler</dispName>
+      <dispName>Repressor Cósmico</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/fib0001.png</iconAssetId>
       <id>0aa16ba0-6ef6-11e6-a58e-065676001937</id>
@@ -2662,7 +2661,7 @@ Use this to Research the Formican Set Pieces</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Vibranium Mystic Amplifier</dispName>
+      <dispName>Diagrama: Vibranium Mystic Amplifier</dispName>
       <iconAssetId>a/fs/ewu0001.png</iconAssetId>
       <id>0e4e8b10-0e80-11e6-90b8-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -2674,7 +2673,7 @@ Use this to Research the Formican Set Pieces</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Proximate Foreboding Device</dispName>
+      <dispName>Diagrama: Proximate Foreboding Device</dispName>
       <iconAssetId>a/fs/eyf0001.png</iconAssetId>
       <id>0e525ba0-0e80-11e6-90b8-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -2686,7 +2685,7 @@ Use this to Research the Formican Set Pieces</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Distant Foreboding Device</dispName>
+      <dispName>Diagrama: Distant Foreboding Device</dispName>
       <iconAssetId>a/fs/ey30001.png</iconAssetId>
       <id>0e562c30-0e80-11e6-90b8-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -2735,7 +2734,7 @@ Use this to Research the Formican Set Pieces</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cognitive Foreboding Device</dispName>
+      <dispName>Diagrama: Cognitive Foreboding Device</dispName>
       <iconAssetId>a/fs/eyd0001.png</iconAssetId>
       <id>0e59aea0-0e80-11e6-90b8-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -3684,7 +3683,7 @@ Use this to Research the Formican Set Pieces</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Bruiser's Empowered Armor</dispName>
+      <dispName>Diagrama: Bruiser's Empowered Armor</dispName>
       <iconAssetId>a/fs/9iv0006.png</iconAssetId>
       <id>101ddd10-68ec-11e3-a140-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -6843,7 +6842,7 @@ Stuns all enemies with Mechanical Bodies, and leaves them vulnerable to critical
     <item>
       <className>Key</className>
       <description>Antidote engineered to remove persistent status effects, complete with a performance enhancer.</description>
-      <dispName>Blueprint: Synthesized Antidote</dispName>
+      <dispName>Diagrama: Synthesized Antidote</dispName>
       <iconAssetId>a/fs/7cx0006.png</iconAssetId>
       <id>1b14ec80-cd75-11e2-bb9c-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -8290,7 +8289,7 @@ Removes all debuffs</description>
     <item>
       <className>Key</className>
       <description>The contents of this horn inspire bravery and increase the power of all who consume it</description>
-      <dispName>Blueprint: Mead Horn</dispName>
+      <dispName>Diagrama: Mead Horn</dispName>
       <iconAssetId>a/fs/5wa0007.png</iconAssetId>
       <id>1eb7e6d0-3a8b-11e2-bae9-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -8780,7 +8779,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Harnessed Cosmic Energy</dispName>
+      <dispName>Diagrama: Harnessed Cosmic Energy</dispName>
       <iconAssetId>a/fs/ffu0001.png</iconAssetId>
       <id>20866e70-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8792,7 +8791,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cosmic Stifler</dispName>
+      <dispName>Diagrama: Repressor Cósmico</dispName>
       <iconAssetId>a/fs/fib0001.png</iconAssetId>
       <id>208a17f0-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8804,7 +8803,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Annulling Spear</dispName>
+      <dispName>Diagrama: Lança Anulante</dispName>
       <iconAssetId>a/fs/fia0001.png</iconAssetId>
       <id>208d9a60-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8816,7 +8815,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Radiant Shield</dispName>
+      <dispName>Diagrama: Escudo Radiante</dispName>
       <iconAssetId>a/fs/fi50001.png</iconAssetId>
       <id>209143e0-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8828,7 +8827,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cosmic Decimator</dispName>
+      <dispName>Diagrama: Dizimador Cósmico</dispName>
       <iconAssetId>a/fs/fii0001.png</iconAssetId>
       <id>2094c650-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8840,7 +8839,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Terminating Javelin</dispName>
+      <dispName>Diagrama: Lança Exterminadora</dispName>
       <iconAssetId>a/fs/fij0001.png</iconAssetId>
       <id>20986fd0-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8852,7 +8851,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cosmic Queller</dispName>
+      <dispName>Diagrama: Opressor Cósmico</dispName>
       <iconAssetId>a/fs/fi60001.png</iconAssetId>
       <id>209bf240-6ef6-11e6-a58e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8864,7 +8863,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Kamala Khan</dispName>
+      <dispName>Kamala Khan Moderna</dispName>
       <id>20b4a290-82a2-11e5-86da-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/dyt0002.png</largeAssetId>
@@ -8943,7 +8942,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Gamma Irradiated Waste</dispName>
+      <dispName>Diagrama: Gamma Irradiated Waste</dispName>
       <iconAssetId>a/fs/ebs0001.png</iconAssetId>
       <id>20fb9080-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8955,7 +8954,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Little Brother</dispName>
+      <dispName>Diagrama: "Irmãozinho"</dispName>
       <iconAssetId>a/fs/edl0001.png</iconAssetId>
       <id>20ff8820-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8967,7 +8966,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Premonition Stimulator</dispName>
+      <dispName>Diagrama: Simulador de Premonição</dispName>
       <iconAssetId>a/fs/edo0001.png</iconAssetId>
       <id>2103cde0-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8979,7 +8978,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Radiation Injector</dispName>
+      <dispName>Diagrama: Injetor de Radiação</dispName>
       <iconAssetId>a/fs/edc0001.png</iconAssetId>
       <id>21075050-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -8991,7 +8990,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Photon Ray</dispName>
+      <dispName>Diagrama: Raio Fóton</dispName>
       <iconAssetId>a/fs/edm0001.png</iconAssetId>
       <id>210a84a0-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9003,7 +9002,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Premonition Actuator</dispName>
+      <dispName>Diagrama: Estimulador de Premonição</dispName>
       <iconAssetId>a/fs/ed90001.png</iconAssetId>
       <id>210e0710-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9015,7 +9014,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Big Brother</dispName>
+      <dispName>Diagrama: "Irmãozão"</dispName>
       <iconAssetId>a/fs/ed80001.png</iconAssetId>
       <id>2111b090-bf04-11e5-8070-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9027,7 +9026,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Identity Crisis</dispName>
+      <dispName>Crise de Identidade</dispName>
       <iconAssetId>a/fs/1u0011.png</iconAssetId>
       <id>21181f50-2c7d-11e3-b1f5-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -9038,7 +9037,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Modern Hogun</dispName>
+      <dispName>Hogun Moderno</dispName>
       <id>214e5cd0-95c0-11e3-8e2a-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/9qo0006.png</largeAssetId>
@@ -9113,7 +9112,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Touch of Madripoor</dispName>
+      <dispName>Toque de Madripoor</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/6ee0007.png</iconAssetId>
@@ -9131,7 +9130,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Follow-Up Attack and Team Buff to Evasion</description>
+      <description>Ataque em sequência e aumento de esquiva para o time.</description>
       <dispName>Enigma .45</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
@@ -9150,8 +9149,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <description>Energy Heals Allies and Hurts Enemies</description>
-      <dispName>Source of the Nile</dispName>
+      <description>Energia que cura aliados e fere inimigos.</description>
+      <dispName>Fonte do Nilo</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/6el0007.png</iconAssetId>
       <id>217d2440-6720-11e2-b602-0025906a2be6</id>
@@ -9168,7 +9167,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>GG Prototype</dispName>
+      <dispName>Protótipo GG</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1374562740</expireDate>
       <genericTags>reforge</genericTags>
@@ -9223,7 +9222,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Radian Pistol</dispName>
+      <dispName>Pistola Radiana</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/6f50007.png</iconAssetId>
@@ -9240,8 +9239,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>New Mission Available! Season 2 10-1 Unlocked!</description>
-      <dispName>New Mission Available! Season 2 10-1 Unlocked!</dispName>
+      <description>Nova Missão Disponível! Temporada 2, Missão 10-1 Desbloqueada!</description>
+      <dispName>Nova Missão Disponível! Temporada 2, Missão 10-1 Desbloqueada!</dispName>
       <iconAssetId>a/fs/d510002.png</iconAssetId>
       <id>219ea850-4052-11e5-b9e1-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9253,7 +9252,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Radian Rifle</dispName>
+      <dispName>Rifle Radiano</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/6eb0007.png</iconAssetId>
@@ -9270,8 +9269,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>New Mission Available! Season 2 10-2 Unlocked!</description>
-      <dispName>New Mission Available! Season 2 10-2 Unlocked!</dispName>
+      <description>Nova Missão Disponível! Temporada 2, Missão 10-2 Desbloqueada!</description>
+      <dispName>Nova Missão Disponível! Temporada 2, Missão 10-2 Desbloqueada!</dispName>
       <iconAssetId>a/fs/d580002.png</iconAssetId>
       <id>21a3ff80-4052-11e5-b9e1-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9284,7 +9283,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Scythe of Ptah</dispName>
+      <dispName>Foce de Ptah</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1374476340</expireDate>
       <genericTags>reforge</genericTags>
@@ -9302,8 +9301,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>New Mission Available! Season 2 10-3 Unlocked!</description>
-      <dispName>New Mission Available! Season 2 10-3 Unlocked!</dispName>
+      <description>Nova Missão Disponível! Temporada 2, Missão 10-3 Desbloqueada!</description>
+      <dispName>Nova Missão Disponível! Temporada 2, Missão 10-3 Desbloqueada!</dispName>
       <iconAssetId>a/fs/d530002.png</iconAssetId>
       <id>21a7d010-4052-11e5-b9e1-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9314,8 +9313,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>New Mission Available! Season 2 10-4 Unlocked!</description>
-      <dispName>New Mission Available! Season 2 10-4 Unlocked!</dispName>
+      <description>Nova Missão Disponível! Temporada 2, Missão 10-4 Desbloqueada!</description>
+      <dispName>Nova Missão Disponível! Temporada 2, Missão 10-4 Desbloqueada!</dispName>
       <iconAssetId>a/fs/d4z0002.png</iconAssetId>
       <id>21ab7990-4052-11e5-b9e1-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9328,7 +9327,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>20.7</defensiveBonus>
-      <dispName>Radian Cannon</dispName>
+      <dispName>Canhão Radiano</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1374649140</expireDate>
       <genericTags>reforge</genericTags>
@@ -9347,8 +9346,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>New Mission Available! Season 2 10-5 Unlocked!</description>
-      <dispName>New Mission Available! Season 2 10-5 Unlocked!</dispName>
+      <description>Nova Missão Disponível! Temporada 2, Missão 10-5 Desbloqueada!</description>
+      <dispName>Nova Missão Disponível! Temporada 2, Missão 10-5 Desbloqueada!</dispName>
       <iconAssetId>a/fs/d570002.png</iconAssetId>
       <id>21afbf50-4052-11e5-b9e1-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9361,7 +9360,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>1.37</defensiveBonus>
-      <dispName>Rayshield Generator</dispName>
+      <dispName>Gerador de Escudo de Raios</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1374735540</expireDate>
       <iconAssetId>a/fs/6et0007.png</iconAssetId>
@@ -9378,7 +9377,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Magic Salt</dispName>
+      <dispName>Diagrama: Sais Mágicos</dispName>
       <iconAssetId>a/fs/dud0002.png</iconAssetId>
       <id>21e02bb0-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9390,7 +9389,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Banishing Wand</dispName>
+      <dispName>Diagrama: Varinha do Banimento</dispName>
       <iconAssetId>a/fs/dwd0002.png</iconAssetId>
       <id>21e3d530-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9402,7 +9401,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Binding Amulet</dispName>
+      <dispName>Diagrama: Amuleto do Aprisionamento</dispName>
       <iconAssetId>a/fs/dvx0002.png</iconAssetId>
       <id>21e77eb0-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9414,7 +9413,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Charge of the Witches</dispName>
+      <dispName>Diagrama: Carga das Bruxas</dispName>
       <iconAssetId>a/fs/dvr0002.png</iconAssetId>
       <id>21eb2830-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9426,7 +9425,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Channeling Glove</dispName>
+      <dispName>Diagrama: Channeling Glove</dispName>
       <iconAssetId>a/fs/dw90002.png</iconAssetId>
       <id>21eed1b0-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9438,7 +9437,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Fetish of Calamity</dispName>
+      <dispName>Diagrama: Fetiche da Calamidade</dispName>
       <iconAssetId>a/fs/dvt0002.png</iconAssetId>
       <id>21f2c950-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9450,7 +9449,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The Craft</dispName>
+      <dispName>Diagrama: A Trapaça</dispName>
       <iconAssetId>a/fs/dvs0002.png</iconAssetId>
       <id>21f672d0-7859-11e5-87c6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9462,8 +9461,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>Unlocks "Daredevil Man Without Fear" uniform for purchase</description>
-      <dispName>Daredevil Man Without Fear Uniform Available</dispName>
+      <description>Desbloqueia o uniforme de Demolidor "O homem sem medo" para compra.</description>
+      <dispName>Uniforme de Demolidor "O homem sem medo" desbloqueado!</dispName>
       <iconAssetId>a/fs/dwo0002.png</iconAssetId>
       <id>224b97b0-7859-11e5-87c6-065676001937</id>
       <itemGroup>feature keys</itemGroup>
@@ -9475,8 +9474,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>PowerupPack</className>
       <defensiveBonus>6.37</defensiveBonus>
-      <description>Temporarily grants the "Asgardian" status to the team.</description>
-      <dispName>Runestone</dispName>
+      <description>Garante o status de "Asgardiano" para o time temporariamente.</description>
+      <dispName>Pedra Rúnica</dispName>
       <highlightText>HIGH PVP BONUS</highlightText>
       <iconAssetId>a/fs/5wc0007.png</iconAssetId>
       <id>229c4260-3a8a-11e2-bae9-0025906a2be6</id>
@@ -9501,8 +9500,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>PowerupPack</className>
       <costId>2deb29f93033f6263be6df5d63f14eb6</costId>
       <defensiveBonus>4.24</defensiveBonus>
-      <description>Grants a followup attack, but at the cost of accuracy.</description>
-      <dispName>Mead Horn</dispName>
+      <description>Permite um ataque em sequência ao custo de ter menos precisão.</description>
+      <dispName>Chifre de Hidromel</dispName>
       <highlightText>HIGH PVP BONUS</highlightText>
       <iconAssetId>a/fs/5wa0007.png</iconAssetId>
       <id>22a012f0-3a8a-11e2-bae9-0025906a2be6</id>
@@ -9526,8 +9525,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>PowerupPack</className>
       <defensiveBonus>8.49</defensiveBonus>
-      <description>Grants ally a damage absorption shield. Ally protects your team while shielded.</description>
-      <dispName>Golden Shield</dispName>
+      <description>Cria um escudo de absorção de dano para um aliado. Este aliado protegerá o time.</description>
+      <dispName>Escudo Dourado</dispName>
       <highlightText>HIGH PVP BONUS</highlightText>
       <iconAssetId>a/fs/5wh0007.png</iconAssetId>
       <id>22a2f920-3a8a-11e2-bae9-0025906a2be6</id>
@@ -9551,7 +9550,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <costId>972e047b3da59aa0c6ae05980ea1e3f9</costId>
-      <dispName>Swashbuckler Nightcrawler</dispName>
+      <dispName>Noturno (Swashbuckler)</dispName>
       <id>2318c450-90cc-11e2-8a3e-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/6rp0006.png</largeAssetId>
@@ -9623,7 +9622,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <costId>151f6c99ce6c42bfbe56228b7fb6780c</costId>
-      <dispName>Swashbuckler Nightcrawler</dispName>
+      <dispName>Noturno (Swashbuckler)</dispName>
       <id>232c9a70-90cc-11e2-8a3e-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/6rp0006.png</largeAssetId>
@@ -9694,8 +9693,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <description>Mockingbird, infused with the power of Nerkkod, Breaker of Oceans</description>
-      <dispName>Pattern: Nerkkod, Breaker of Oceans</dispName>
+      <description>Harpia, possuída pelo poder de Nerkkod, Destruidor de Oceanos</description>
+      <dispName>Diagrama: Nerkkod, Destruidora de Oceanos</dispName>
       <iconAssetId>a/fs/2320011.png</iconAssetId>
       <id>2333c740-4052-11e5-b9e1-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -9706,7 +9705,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Uncanny X-Force Fantomex</dispName>
+      <dispName>Fabuloso Fantomex (X-Force)</dispName>
       <id>233ca000-90cc-11e2-8a3e-0025906a2be6</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/6ro0006.png</largeAssetId>
@@ -9782,7 +9781,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>176.09</defensiveBonus>
-      <dispName>Roaring Rampage</dispName>
+      <dispName>Rugido Furioso</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1453190340</expireDate>
       <genericTags>reforge</genericTags>
@@ -9803,7 +9802,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Classic Beta Ray Bill</dispName>
+      <dispName>Bill Raio Beta  (Clássico)</dispName>
       <id>23b096b0-b3dc-11e4-a26c-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/c4d0002.png</largeAssetId>
@@ -9877,7 +9876,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Gear</className>
-      <dispName>Classic Enchantress</dispName>
+      <dispName>Encantriz (Clássica)</dispName>
       <id>23ca6040-b3dc-11e4-a26c-065676001937</id>
       <itemType>gear</itemType>
       <largeAssetId>a/fs/c450002.png</largeAssetId>
@@ -9952,8 +9951,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>34.73</defensiveBonus>
-      <description>Ready for Reshaping</description>
-      <dispName>Devitalizer</dispName>
+      <description>Pronto para reformulação</description>
+      <dispName>Devitalizador</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/b1s0003.png</iconAssetId>
@@ -9970,8 +9969,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>34.73</defensiveBonus>
-      <description>Brothers United</description>
-      <dispName>Mark of the Brotherhood</dispName>
+      <description>Irmãos Unidos!</description>
+      <dispName>Marca da Irmandade</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/b240003.png</iconAssetId>
       <id>24a7f280-0797-11e4-a43a-0025906a2be6</id>
@@ -9988,8 +9987,8 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>34.73</defensiveBonus>
-      <description>Fit for a King</description>
-      <dispName>Old Ebony</dispName>
+      <description>Perfeito para um rei.</description>
+      <dispName>Ébano Antigo</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/b250003.png</iconAssetId>
       <id>24ad49b0-0797-11e4-a43a-0025906a2be6</id>
@@ -10005,7 +10004,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>34.73</defensiveBonus>
-      <dispName>Calculated Response</dispName>
+      <dispName>Resposta Calculada</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <iconAssetId>a/fs/b1t0003.png</iconAssetId>
       <id>24b3d960-0797-11e4-a43a-0025906a2be6</id>
@@ -10022,7 +10021,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Gear</className>
       <defensiveBonus>34.73</defensiveBonus>
-      <dispName>Masterkey</dispName>
+      <dispName>Chave Mestra</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <genericTags>reforge</genericTags>
       <iconAssetId>a/fs/b280003.png</iconAssetId>
@@ -10041,7 +10040,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Gear</className>
       <costId>42a9151217e84e77dcc5d20f066b44cb</costId>
       <defensiveBonus>32.43</defensiveBonus>
-      <dispName>Zero-day</dispName>
+      <dispName>Dia-Zero</dispName>
       <dynamicQlevel>true</dynamicQlevel>
       <expireDate>1451203140</expireDate>
       <genericTags>reforge</genericTags>
@@ -10950,7 +10949,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Key</className>
       <description>No longer made of iron, this alloy provides the exoskeleton for all of Stark Industries' armored suits.</description>
-      <dispName>Blueprint: Armor Plating</dispName>
+      <dispName>Diagrama: Armor Plating</dispName>
       <iconAssetId>a/fs/74z0006.png</iconAssetId>
       <id>2a717f20-b0d5-11e2-9dc4-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11128,7 +11127,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: EMP Sweeper</dispName>
+      <dispName>Diagrama: EMP Sweeper</dispName>
       <iconAssetId>a/fs/b0o0003.png</iconAssetId>
       <id>2b6c9530-0797-11e4-a43a-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11140,7 +11139,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cuff Guard</dispName>
+      <dispName>Diagrama: Cuff Guard</dispName>
       <iconAssetId>a/fs/b270003.png</iconAssetId>
       <id>2b6f7b60-0797-11e4-a43a-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11152,7 +11151,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cuff Interface</dispName>
+      <dispName>Diagrama: Cuff Interface</dispName>
       <iconAssetId>a/fs/b1z0003.png</iconAssetId>
       <id>2b726190-0797-11e4-a43a-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11164,7 +11163,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cuff L.I.N.C.</dispName>
+      <dispName>Diagrama: Cuff L.I.N.C.</dispName>
       <iconAssetId>a/fs/b1x0003.png</iconAssetId>
       <id>2b7520b0-0797-11e4-a43a-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11176,7 +11175,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Ant Attractant</dispName>
+      <dispName>Diagrama: Ant Attractant</dispName>
       <iconAssetId>a/fs/cvw0002.png</iconAssetId>
       <id>2b7fbcb0-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11188,7 +11187,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Micro Mandible</dispName>
+      <dispName>Diagrama: Micro Mandible</dispName>
       <iconAssetId>a/fs/cx10002.png</iconAssetId>
       <id>2b840270-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11200,7 +11199,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Micro Stinger</dispName>
+      <dispName>Diagrama: Micro Stinger</dispName>
       <iconAssetId>a/fs/cxb0002.png</iconAssetId>
       <id>2b87fa10-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11212,7 +11211,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The ANTenna</dispName>
+      <dispName>Diagrama: The ANTenna</dispName>
       <iconAssetId>a/fs/cx90002.png</iconAssetId>
       <id>2b8c8df0-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11224,7 +11223,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The Carapace</dispName>
+      <dispName>Diagrama: The Carapace</dispName>
       <iconAssetId>a/fs/cx60002.png</iconAssetId>
       <id>2b905e80-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11236,7 +11235,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The Stinger</dispName>
+      <dispName>Diagrama: The Stinger</dispName>
       <iconAssetId>a/fs/cx40002.png</iconAssetId>
       <id>2b945620-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11248,7 +11247,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The Mandible</dispName>
+      <dispName>Diagrama: The Mandible</dispName>
       <iconAssetId>a/fs/cx30002.png</iconAssetId>
       <id>2b984dc0-25b8-11e5-a3e3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -11279,7 +11278,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
     <item>
       <className>Key</className>
       <description>Originally developed to detect and cleanse radiation. Further testing uncovered a flaw, which can cause intense pain if handled improperly. This defect has not been removed.</description>
-      <dispName>Blueprint: Rad-Sniffer</dispName>
+      <dispName>Diagrama: Rad-Sniffer</dispName>
       <iconAssetId>a/fs/94z0006.png</iconAssetId>
       <id>2c6c66a0-5d2d-11e3-aa51-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11504,7 +11503,7 @@ Removes and prevents Generalized and Disadvantage effects</description>
       <className>Key</className>
       <description>Contains a captured soul
 Creates random buffs on all allies and random debuffs on all enemies when released</description>
-      <dispName>Blueprint: Soul Jar</dispName>
+      <dispName>Diagrama: Soul Jar</dispName>
       <iconAssetId>a/fs/7p60006.png</iconAssetId>
       <id>2d904720-eb74-11e2-b1ec-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11517,7 +11516,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     <item>
       <className>Key</className>
       <description>Allows upgrade of Trident to Infernal Trident</description>
-      <dispName>Blueprint: Infernal Trident</dispName>
+      <dispName>Diagrama: Infernal Trident</dispName>
       <iconAssetId>a/fs/7oh0006.png</iconAssetId>
       <id>2d952920-eb74-11e2-b1ec-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -11530,7 +11529,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     <item>
       <className>Key</className>
       <description>Allows upgrade of Infernal Trident to Netheranium Trident</description>
-      <dispName>Blueprint: Netheranium Trident</dispName>
+      <dispName>Diagrama: Netheranium Trident</dispName>
       <iconAssetId>a/fs/7oe0006.png</iconAssetId>
       <id>2d99e410-eb74-11e2-b1ec-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -12035,7 +12034,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     <item>
       <className>Key</className>
       <description>Poison gathered from Ninjas, Demons, and Vipers</description>
-      <dispName>Blueprint: Poison Samples</dispName>
+      <dispName>Diagrama: Poison Samples</dispName>
       <iconAssetId>a/fs/an40004.png</iconAssetId>
       <id>2e8c8f70-f015-11e3-b655-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -12274,7 +12273,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Hallowed Flame Grenade</dispName>
+      <dispName>Diagrama: Hallowed Flame Grenade</dispName>
       <iconAssetId>a/fs/bob0002.png</iconAssetId>
       <id>2f884960-5bd5-11e4-b3f9-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -12286,7 +12285,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Grimoire of the Legion</dispName>
+      <dispName>Diagrama: Grimoire of the Legion</dispName>
       <iconAssetId>a/fs/bov0002.png</iconAssetId>
       <id>2f8b7db0-5bd5-11e4-b3f9-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -12317,7 +12316,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Sanctification of Flesh</dispName>
+      <dispName>Diagrama: Sanctification of Flesh</dispName>
       <iconAssetId>a/fs/bos0002.png</iconAssetId>
       <id>2f8ed910-5bd5-11e4-b3f9-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -12329,7 +12328,7 @@ Creates random buffs on all allies and random debuffs on all enemies when releas
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Hallowed Flame Thrower</dispName>
+      <dispName>Diagrama: Hallowed Flame Thrower</dispName>
       <iconAssetId>a/fs/bn80002.png</iconAssetId>
       <id>2f925b80-5bd5-11e4-b3f9-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -16358,7 +16357,7 @@ Collect Sandboxes to unlock Sandman</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Sinister Crystal</dispName>
+      <dispName>Diagrama: Sinister Crystal</dispName>
       <iconAssetId>a/fs/9n20007.png</iconAssetId>
       <id>378d8df0-8eb7-11e3-b1c0-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -16370,7 +16369,7 @@ Collect Sandboxes to unlock Sandman</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: En Sabah Nur's Liberator</dispName>
+      <dispName>Diagrama: En Sabah Nur's Liberator</dispName>
       <iconAssetId>a/fs/9op0007.png</iconAssetId>
       <id>3792be10-8eb7-11e3-b1c0-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -16406,7 +16405,7 @@ Applies Exhausted to all enemies</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Apocalypse's Subjugator</dispName>
+      <dispName>Diagrama: Apocalypse's Subjugator</dispName>
       <iconAssetId>a/fs/9oy0007.png</iconAssetId>
       <id>3797c720-8eb7-11e3-b1c0-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -17860,7 +17859,7 @@ Applies Disoriented</description>
     <item>
       <className>Key</className>
       <description>Constructs Retractable Claw</description>
-      <dispName>Blueprint: Retractable Claw</dispName>
+      <dispName>Diagrama: Retractable Claw</dispName>
       <iconAssetId>a/fs/8py0006.png</iconAssetId>
       <id>3eab9390-3839-11e3-be1d-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -17873,7 +17872,7 @@ Applies Disoriented</description>
     <item>
       <className>Key</className>
       <description>Constructs Holographic Shield</description>
-      <dispName>Blueprint: Holographic Shield</dispName>
+      <dispName>Diagrama: Holographic Shield</dispName>
       <iconAssetId>a/fs/8q10006.png</iconAssetId>
       <id>3eaf6420-3839-11e3-be1d-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -17886,7 +17885,7 @@ Applies Disoriented</description>
     <item>
       <className>Key</className>
       <description>Constructs Wrist Slinger</description>
-      <dispName>Blueprint: Wrist Slingers</dispName>
+      <dispName>Diagrama: Wrist Slingers</dispName>
       <iconAssetId>a/fs/8q50006.png</iconAssetId>
       <id>3eb22340-3839-11e3-be1d-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -17899,7 +17898,7 @@ Applies Disoriented</description>
     <item>
       <className>Key</className>
       <description>Constructs Vigilante Toolkit</description>
-      <dispName>Blueprint: Vigilante Kit</dispName>
+      <dispName>Diagrama: Vigilante Kit</dispName>
       <iconAssetId>a/fs/8pz0006.png</iconAssetId>
       <id>3eb50970-3839-11e3-be1d-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -18028,7 +18027,7 @@ Collect Reptilian Lockboxes to unlock The Lizard</description>
     <item>
       <className>Key</className>
       <description>This crystal refracts normally-damaging energy waves into a harmless range of the spectrum.</description>
-      <dispName>Blueprint: Pyramidion</dispName>
+      <dispName>Diagrama: Pyramidion</dispName>
       <iconAssetId>a/fs/6cn0007.png</iconAssetId>
       <id>3f4ed990-6721-11e2-b602-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -21125,7 +21124,7 @@ Collect Reptilian Lockboxes to unlock The Lizard</description>
     <item>
       <className>Key</className>
       <description>Takes significantly less damage from Counter-Attacks and Follow-Up Attacks</description>
-      <dispName>Blueprint: Vigil of Attilan</dispName>
+      <dispName>Diagrama: Vigil of Attilan</dispName>
       <iconAssetId>a/fs/8bo0006.png</iconAssetId>
       <id>4495d390-20c6-11e3-af13-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -21138,7 +21137,7 @@ Collect Reptilian Lockboxes to unlock The Lizard</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Attilan Cudgel</description>
-      <dispName>Blueprint: Attilan Cudgel</dispName>
+      <dispName>Diagrama: Attilan Cudgel</dispName>
       <iconAssetId>a/fs/8bq0006.png</iconAssetId>
       <id>449b2ac0-20c6-11e3-af13-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -21151,7 +21150,7 @@ Collect Reptilian Lockboxes to unlock The Lizard</description>
     <item>
       <className>Key</className>
       <description>Allows upgrade of the Attilan Cudgel to the Attilan Mace</description>
-      <dispName>Blueprint: Attilan Mace</dispName>
+      <dispName>Diagrama: Attilan Mace</dispName>
       <iconAssetId>a/fs/8bm0006.png</iconAssetId>
       <id>44a0a900-20c6-11e3-af13-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -21164,7 +21163,7 @@ Collect Reptilian Lockboxes to unlock The Lizard</description>
     <item>
       <className>Key</className>
       <description>Allows upgrade of the Attilan Mace to the Guardian of Attilan</description>
-      <dispName>Blueprint: Guardian of Attilan</dispName>
+      <dispName>Diagrama: Guardian of Attilan</dispName>
       <iconAssetId>a/fs/8bn0006.png</iconAssetId>
       <id>44a62740-20c6-11e3-af13-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -26688,7 +26687,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Pheromone Inhibitor</dispName>
+      <dispName>Diagrama: Pheromone Inhibitor</dispName>
       <iconAssetId>a/fs/e1j0001.png</iconAssetId>
       <id>50218db0-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26700,7 +26699,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Maggia Tommy Gun</dispName>
+      <dispName>Diagrama: Maggia Tommy Gun</dispName>
       <iconAssetId>a/fs/e3b0001.png</iconAssetId>
       <id>5024c200-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26712,7 +26711,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Maggia Fist</dispName>
+      <dispName>Diagrama: Maggia Fist</dispName>
       <iconAssetId>a/fs/e340001.png</iconAssetId>
       <id>50281d60-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26724,7 +26723,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Maggia Targeting Device</dispName>
+      <dispName>Diagrama: Maggia Targeting Device</dispName>
       <iconAssetId>a/fs/e320001.png</iconAssetId>
       <id>502b2aa0-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26736,7 +26735,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: The Made Man</dispName>
+      <dispName>Diagrama: The Made Man</dispName>
       <iconAssetId>a/fs/e3a0001.png</iconAssetId>
       <id>502e5ef0-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26748,7 +26747,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Maggia Captain's Fist</dispName>
+      <dispName>Diagrama: Maggia Captain's Fist</dispName>
       <iconAssetId>a/fs/e370001.png</iconAssetId>
       <id>50314520-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -26760,7 +26759,7 @@ Gains Grit when any of the above trigger</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Hammer Pistol</dispName>
+      <dispName>Diagrama: Hammer Pistol</dispName>
       <iconAssetId>a/fs/e300001.png</iconAssetId>
       <id>50342b50-91e6-11e5-ac0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28434,7 +28433,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     <item>
       <className>Key</className>
       <description>Plans for a prototype assault suit designed by Stark Industries to intimidate enemies.</description>
-      <dispName>Blueprint: Bruiser's Aegis Armor</dispName>
+      <dispName>Diagrama: Bruiser's Aegis Armor</dispName>
       <iconAssetId>a/fs/78z0006.png</iconAssetId>
       <id>54d80450-bf53-11e2-8dab-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -28693,7 +28692,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Mad Tech Grenade</dispName>
+      <dispName>Diagrama: Mad Tech Grenade</dispName>
       <iconAssetId>a/fs/bxj0002.png</iconAssetId>
       <id>559bfa70-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28727,7 +28726,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Unrefined Echo Tech Blaster</dispName>
+      <dispName>Diagrama: Unrefined Echo Tech Blaster</dispName>
       <iconAssetId>a/fs/by70002.png</iconAssetId>
       <id>559fa3f0-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28761,7 +28760,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Unrefined Psychotic Blade</dispName>
+      <dispName>Diagrama: Unrefined Psychotic Blade</dispName>
       <iconAssetId>a/fs/by50002.png</iconAssetId>
       <id>55a34d70-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28773,7 +28772,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Manic De-Amplifier</dispName>
+      <dispName>Diagrama: Manic De-Amplifier</dispName>
       <iconAssetId>a/fs/byc0002.png</iconAssetId>
       <id>55a6f6f0-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28785,7 +28784,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Psychotic Blade</dispName>
+      <dispName>Diagrama: Psychotic Blade</dispName>
       <iconAssetId>a/fs/byf0002.png</iconAssetId>
       <id>55aaa070-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28797,7 +28796,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Amplified Rifle</dispName>
+      <dispName>Diagrama: Amplified Rifle</dispName>
       <iconAssetId>a/fs/by90002.png</iconAssetId>
       <id>55ae49f0-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -28809,7 +28808,7 @@ Collect Mimetic Lockboxes to unlock Taskmaster</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Echo Tech Blaster</dispName>
+      <dispName>Diagrama: Echo Tech Blaster</dispName>
       <iconAssetId>a/fs/bya0002.png</iconAssetId>
       <id>55b1f370-81a5-11e4-a74e-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -29459,7 +29458,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Scrapper's Safeguard Suit</dispName>
+      <dispName>Diagrama: Scrapper's Safeguard Suit</dispName>
       <iconAssetId>a/fs/brm0002.png</iconAssetId>
       <id>57a2cad0-6f79-11e4-bb0a-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -31189,7 +31188,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Tactician's Empowered Armor</dispName>
+      <dispName>Diagrama: Tactician's Empowered Armor</dispName>
       <iconAssetId>a/fs/abl0006.png</iconAssetId>
       <id>5e035600-c0d9-11e3-80ab-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -31866,7 +31865,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Plans for a prototype assault suit designed by Stark Industries to create doubt in the minds of enemies</description>
-      <dispName>Blueprint: Tactician's Aegis Armor</dispName>
+      <dispName>Diagrama: Tactician's Aegis Armor</dispName>
       <iconAssetId>a/fs/84f0006.png</iconAssetId>
       <id>5fb7a720-03a7-11e3-afd4-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -32787,7 +32786,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Allows the user to see through the illusions used by Dark Elves</description>
-      <dispName>Blueprint: Dark Elf Mask</dispName>
+      <dispName>Diagrama: Dark Elf Mask</dispName>
       <iconAssetId>a/fs/8tu0006.png</iconAssetId>
       <id>60cf4640-3d0e-11e3-a677-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -32820,7 +32819,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Stone Golem Club</description>
-      <dispName>Blueprint: Stone Golem Club</dispName>
+      <dispName>Diagrama: Stone Golem Club</dispName>
       <iconAssetId>a/fs/8vn0006.png</iconAssetId>
       <id>60d20560-3d0e-11e3-a677-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -32833,7 +32832,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Eclipse</description>
-      <dispName>Blueprint: Eclipse</dispName>
+      <dispName>Diagrama: Eclipse</dispName>
       <iconAssetId>a/fs/8vy0006.png</iconAssetId>
       <id>60d4eb90-3d0e-11e3-a677-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -32846,7 +32845,7 @@ Goldberg, and Sam Rosen</description>
     <item>
       <className>Key</className>
       <description>Allows creation of Algrim's Rage</description>
-      <dispName>Blueprint: Algrim's Rage</dispName>
+      <dispName>Diagrama: Algrim's Rage</dispName>
       <iconAssetId>a/fs/8vt0006.png</iconAssetId>
       <id>60d7aab0-3d0e-11e3-a677-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -34317,7 +34316,7 @@ WARNING! Chance of Gamma Mutation</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Antiserum Bomb</dispName>
+      <dispName>Diagrama: Antiserum Bomb</dispName>
       <iconAssetId>a/fs/ajq0005.png</iconAssetId>
       <id>67252160-db9a-11e3-bdf7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -34329,7 +34328,7 @@ WARNING! Chance of Gamma Mutation</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Sonic Sword</dispName>
+      <dispName>Diagrama: Sonic Sword</dispName>
       <iconAssetId>a/fs/akx0005.png</iconAssetId>
       <id>67287cc0-db9a-11e3-bdf7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -34341,7 +34340,7 @@ WARNING! Chance of Gamma Mutation</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Supersonic Sword</dispName>
+      <dispName>Diagrama: Supersonic Sword</dispName>
       <iconAssetId>a/fs/al10005.png</iconAssetId>
       <id>672bb110-db9a-11e3-bdf7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -34353,7 +34352,7 @@ WARNING! Chance of Gamma Mutation</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Net-Caster</dispName>
+      <dispName>Diagrama: Net-Caster</dispName>
       <iconAssetId>a/fs/al50005.png</iconAssetId>
       <id>672ee560-db9a-11e3-bdf7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -34902,7 +34901,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Provisions Kit</dispName>
+      <dispName>Diagrama: Provisions Kit</dispName>
       <iconAssetId>a/fs/epk0001.png</iconAssetId>
       <id>6a8d3510-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34914,7 +34913,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cybernetic Glove</dispName>
+      <dispName>Diagrama: Cybernetic Glove</dispName>
       <iconAssetId>a/fs/eqw0001.png</iconAssetId>
       <id>6a9153c0-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34926,7 +34925,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Plasma Launcher</dispName>
+      <dispName>Diagrama: Plasma Launcher</dispName>
       <iconAssetId>a/fs/er20001.png</iconAssetId>
       <id>6a94fd40-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34938,7 +34937,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Quickdraw Plasma Pistol</dispName>
+      <dispName>Diagrama: Quickdraw Plasma Pistol</dispName>
       <iconAssetId>a/fs/eqt0001.png</iconAssetId>
       <id>6a98a6c0-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34950,7 +34949,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Deathlok Cannon</dispName>
+      <dispName>Diagrama: Deathlok Cannon</dispName>
       <iconAssetId>a/fs/er30001.png</iconAssetId>
       <id>6a9c0220-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34985,7 +34984,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Focused Plasma Launcher</dispName>
+      <dispName>Diagrama: Focused Plasma Launcher</dispName>
       <iconAssetId>a/fs/eqx0001.png</iconAssetId>
       <id>6a9f8490-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -34997,7 +34996,7 @@ Applies Off-balance and Blind</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Deathlok Fist</dispName>
+      <dispName>Diagrama: Deathlok Fist</dispName>
       <iconAssetId>a/fs/eqz0001.png</iconAssetId>
       <id>6aa32e10-e951-11e5-a215-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -38948,7 +38947,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Portable Arc Reactor</dispName>
+      <dispName>Diagrama: Portable Arc Reactor</dispName>
       <iconAssetId>a/fs/ckg0002.png</iconAssetId>
       <id>7a3d6cf0-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -38960,7 +38959,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Legion Pulse Rifle Mk1</dispName>
+      <dispName>Diagrama: Legion Pulse Rifle Mk1</dispName>
       <iconAssetId>a/fs/clg0002.png</iconAssetId>
       <id>7a411670-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -38972,7 +38971,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Legion Blade Mk1</dispName>
+      <dispName>Diagrama: Legion Blade Mk1</dispName>
       <iconAssetId>a/fs/cl60002.png</iconAssetId>
       <id>7a4471d0-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -38984,7 +38983,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Legion Transponder</dispName>
+      <dispName>Diagrama: Legion Transponder</dispName>
       <iconAssetId>a/fs/cl90002.png</iconAssetId>
       <id>7a47cd30-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -38996,7 +38995,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Legion Particle Accelerator</dispName>
+      <dispName>Diagrama: Legion Particle Accelerator</dispName>
       <iconAssetId>a/fs/cl30002.png</iconAssetId>
       <id>7a4b76b0-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -39008,7 +39007,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Disruption Blade</dispName>
+      <dispName>Diagrama: Disruption Blade</dispName>
       <iconAssetId>a/fs/clf0002.png</iconAssetId>
       <id>7a4ef920-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -39020,7 +39019,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Legion Pulse Rifle</dispName>
+      <dispName>Diagrama: Legion Pulse Rifle</dispName>
       <iconAssetId>a/fs/cl70002.png</iconAssetId>
       <id>7a52a2a0-e6e6-11e4-a7e5-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -39107,7 +39106,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     <item>
       <className>Key</className>
       <description>Designed by Tony Stark and Hank Pym to take advantage of advanced technologies and Iso-8 advancements.</description>
-      <dispName>Blueprint: Infiltrator's Infused Techsuit</dispName>
+      <dispName>Diagrama: Infiltrator's Infused Techsuit</dispName>
       <iconAssetId>a/fs/e7w0001.png</iconAssetId>
       <id>7a92b560-a442-11e5-8f44-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -39161,7 +39160,7 @@ Recharges Stamina, Grants 2 Turns, but then Stuns the character</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Scrapper's Empowered Armor</dispName>
+      <dispName>Diagrama: Scrapper's Empowered Armor</dispName>
       <iconAssetId>a/fs/8yq0006.png</iconAssetId>
       <id>7aed51a0-4800-11e3-9257-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -41467,7 +41466,7 @@ Collect Enchanting Lockboxes to unlock Enchantress</description>
     <item>
       <className>Key</className>
       <description>Constructs Hand of Kagutsuchi</description>
-      <dispName>Blueprint: Hand of Kagutsuchi</dispName>
+      <dispName>Diagrama: Hand of Kagutsuchi</dispName>
       <iconAssetId>a/fs/9k50006.png</iconAssetId>
       <id>828df4c0-7cab-11e3-aed7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -41809,7 +41808,7 @@ Collect Enchanting Lockboxes to unlock Enchantress</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cosmic Power Cell</dispName>
+      <dispName>Diagrama: Cosmic Power Cell</dispName>
       <iconAssetId>a/fs/b5p0003.png</iconAssetId>
       <id>83cde8d0-16bc-11e4-9aca-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -41821,7 +41820,7 @@ Collect Enchanting Lockboxes to unlock Enchantress</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Kinetic Blade Mk I</dispName>
+      <dispName>Diagrama: Kinetic Blade Mk I</dispName>
       <iconAssetId>a/fs/b7g0003.png</iconAssetId>
       <id>83d11d20-16bc-11e4-9aca-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -41833,7 +41832,7 @@ Collect Enchanting Lockboxes to unlock Enchantress</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Kinetic Blade Mk II</dispName>
+      <dispName>Diagrama: Kinetic Blade Mk II</dispName>
       <iconAssetId>a/fs/b7d0003.png</iconAssetId>
       <id>83d45170-16bc-11e4-9aca-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -41845,7 +41844,7 @@ Collect Enchanting Lockboxes to unlock Enchantress</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Kinetic Energy Blade</dispName>
+      <dispName>Diagrama: Kinetic Energy Blade</dispName>
       <iconAssetId>a/fs/b770003.png</iconAssetId>
       <id>83d75eb0-16bc-11e4-9aca-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -44581,7 +44580,7 @@ Sky is Falling + Reverberation</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Asgardian Tankard</dispName>
+      <dispName>Diagrama: Asgardian Tankard</dispName>
       <iconAssetId>a/fs/a590006.png</iconAssetId>
       <id>89040e50-b38a-11e3-8ef6-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -48361,7 +48360,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Designed by Tony Stark and Hank Pym to take advantage of advanced technologies and Iso-8 advancements.</description>
-      <dispName>Blueprint: Scrapper's Infused Techsuit</dispName>
+      <dispName>Diagrama: Scrapper's Infused Techsuit</dispName>
       <iconAssetId>a/fs/e7y0001.png</iconAssetId>
       <id>93e6a700-c5fe-11e5-96fe-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -49571,7 +49570,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Designed by Tony Stark and Hank Pym to take advantage of advanced technologies and Iso-8 advancements.</description>
-      <dispName>Blueprint: Tactician's Infused Techsuit</dispName>
+      <dispName>Diagrama: Tactician's Infused Techsuit</dispName>
       <iconAssetId>a/fs/e8b0001.png</iconAssetId>
       <id>97001a70-13ba-11e6-9ad0-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -49679,7 +49678,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Infiltrator's Safeguard Suit</dispName>
+      <dispName>Diagrama: Infiltrator's Safeguard Suit</dispName>
       <iconAssetId>a/fs/aog0004.png</iconAssetId>
       <id>971e54f0-f679-11e3-a79f-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51218,7 +51217,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>This doll found in an old abandoned Murderworld is as terrifying as it is deadly.</description>
-      <dispName>Blueprint: Murderworld Doll</dispName>
+      <dispName>Diagrama: Murderworld Doll</dispName>
       <iconAssetId>a/fs/9el0006.png</iconAssetId>
       <id>99c79280-637a-11e3-b431-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51231,7 +51230,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Staff of Darkness</description>
-      <dispName>Blueprint: Staff of Darkness</dispName>
+      <dispName>Diagrama: Staff of Darkness</dispName>
       <iconAssetId>a/fs/9fn0006.png</iconAssetId>
       <id>99cb14f0-637a-11e3-b431-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51244,7 +51243,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Staff of Ice</description>
-      <dispName>Blueprint: Staff of Ice</dispName>
+      <dispName>Diagrama: Staff of Ice</dispName>
       <iconAssetId>a/fs/9g90006.png</iconAssetId>
       <id>99ce4940-637a-11e3-b431-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51278,7 +51277,7 @@ Collect Boomboxes to unlock Avalanche</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Blaster's Safeguard Suit</dispName>
+      <dispName>Diagrama: Blaster's Safeguard Suit</dispName>
       <iconAssetId>a/fs/c9a0002.png</iconAssetId>
       <id>9a490830-bc5f-11e4-a9d3-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -51465,7 +51464,7 @@ Collect Coiled Lockboxes to unlock Constrictor</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to adapt to future technologies.</description>
-      <dispName>Blueprint: Infiltrator's Empowered Armor</dispName>
+      <dispName>Diagrama: Infiltrator's Empowered Armor</dispName>
       <iconAssetId>a/fs/8gn0006.png</iconAssetId>
       <id>9c362050-2657-11e3-b1f5-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51478,7 +51477,7 @@ Collect Coiled Lockboxes to unlock Constrictor</description>
     <item>
       <className>Key</className>
       <description>By combining magic and technology, we can simulate the properties of the Tesseract.</description>
-      <dispName>Blueprint: Prototype Cube</dispName>
+      <dispName>Diagrama: Prototype Cube</dispName>
       <iconAssetId>a/fs/8gi0006.png</iconAssetId>
       <id>9c39f0e0-2657-11e3-b1f5-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -51491,7 +51490,7 @@ Collect Coiled Lockboxes to unlock Constrictor</description>
     <item>
       <className>Key</className>
       <description>By combining magic and technology, we can simulate the properties of the Tesseract.</description>
-      <dispName>Blueprint: Synthetic Cube</dispName>
+      <dispName>Diagrama: Synthetic Cube</dispName>
       <iconAssetId>a/fs/8gi0006.png</iconAssetId>
       <id>9c3d4c40-2657-11e3-b1f5-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -52504,7 +52503,7 @@ Counters enemies with Burning</description>
     <item>
       <className>Key</className>
       <description>The teeth of these demonic invaders contain dark energies we can harness.</description>
-      <dispName>Blueprint: Infernal Fang</dispName>
+      <dispName>Diagrama: Infernal Fang</dispName>
       <iconAssetId>a/fs/5qu0008.png</iconAssetId>
       <id>9fe59640-1d57-11e2-8848-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -52543,7 +52542,7 @@ Counters enemies with Burning</description>
     <item>
       <className>Key</className>
       <description>With the combined powers of the Infernal Fangs and Dormammu's Frozen Hell, we can forge a weapon of tremendous power.</description>
-      <dispName>Blueprint: Grief</dispName>
+      <dispName>Diagrama: Grief</dispName>
       <iconAssetId>a/fs/5nu0008.png</iconAssetId>
       <id>9ff32ad0-1d57-11e2-8848-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -52556,7 +52555,7 @@ Counters enemies with Burning</description>
     <item>
       <className>Key</className>
       <description>Designed by the world's greatest scientists to take advantage of pieces of the Black Vortex and Iso-8 advancements.</description>
-      <dispName>Blueprint: Scrapper's Vortex Suit</dispName>
+      <dispName>Diagrama: Scrapper's Vortex Suit</dispName>
       <iconAssetId>a/fs/fam0001.png</iconAssetId>
       <id>a004bda0-5b2d-11e6-8a97-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52646,7 +52645,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Asgardian Armband</dispName>
+      <dispName>Diagrama: Asgardian Armband</dispName>
       <iconAssetId>a/fs/c510002.png</iconAssetId>
       <id>a0f686a0-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52658,7 +52657,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Smoldering Sword</dispName>
+      <dispName>Diagrama: Smoldering Sword</dispName>
       <iconAssetId>a/fs/c4u0002.png</iconAssetId>
       <id>a0fa3020-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52670,7 +52669,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Staff of Tepid Storms</dispName>
+      <dispName>Diagrama: Staff of Tepid Storms</dispName>
       <iconAssetId>a/fs/c5a0002.png</iconAssetId>
       <id>a0fdd9a0-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52682,7 +52681,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Coulson Special</dispName>
+      <dispName>Diagrama: Coulson Special</dispName>
       <iconAssetId>a/fs/c5b0002.png</iconAssetId>
       <id>a1013500-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52694,7 +52693,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Frozen Axe</dispName>
+      <dispName>Diagrama: Frozen Axe</dispName>
       <iconAssetId>a/fs/c4x0002.png</iconAssetId>
       <id>a1046950-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52706,7 +52705,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Flaming Sword</dispName>
+      <dispName>Diagrama: Flaming Sword</dispName>
       <iconAssetId>a/fs/c540002.png</iconAssetId>
       <id>a1079da0-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -52718,7 +52717,7 @@ Collect Toolboxes to unlock Fixer</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Staff of Storms</dispName>
+      <dispName>Diagrama: Staff of Storms</dispName>
       <iconAssetId>a/fs/c4v0002.png</iconAssetId>
       <id>a10b4720-b3de-11e4-a26c-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53738,7 +53737,7 @@ Applies Nimble</description>
     <item>
       <className>Key</className>
       <description>Designed by Tony Stark and Hank Pym to take advantage of advanced technologies and Iso-8 advancements.</description>
-      <dispName>Blueprint: Blaster's Infused Techsuit</dispName>
+      <dispName>Diagrama: Blaster's Infused Techsuit</dispName>
       <iconAssetId>a/fs/e870001.png</iconAssetId>
       <id>a6456b70-f470-11e5-9d93-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53750,7 +53749,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Hemo-Arachnid Spray</dispName>
+      <dispName>Diagrama: Hemo-Arachnid Spray</dispName>
       <iconAssetId>a/fs/da10002.png</iconAssetId>
       <id>a645a360-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53762,7 +53761,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Inferior Webber</dispName>
+      <dispName>Diagrama: Inferior Webber</dispName>
       <iconAssetId>a/fs/dax0002.png</iconAssetId>
       <id>a648fec0-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53774,7 +53773,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Tattered Gloves</dispName>
+      <dispName>Diagrama: Tattered Gloves</dispName>
       <iconAssetId>a/fs/db20002.png</iconAssetId>
       <id>a64c3310-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53786,7 +53785,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Exo-Generator</dispName>
+      <dispName>Diagrama: Exo-Generator</dispName>
       <iconAssetId>a/fs/daz0002.png</iconAssetId>
       <id>a64f4050-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53798,7 +53797,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Venom Launcher</dispName>
+      <dispName>Diagrama: Venom Launcher</dispName>
       <iconAssetId>a/fs/db50002.png</iconAssetId>
       <id>a6529bb0-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53810,7 +53809,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Webbed Gloves</dispName>
+      <dispName>Diagrama: Webbed Gloves</dispName>
       <iconAssetId>a/fs/csm0002.png</iconAssetId>
       <id>a655a8f0-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -53822,7 +53821,7 @@ Applies Nimble</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Grace Note</dispName>
+      <dispName>Diagrama: Grace Note</dispName>
       <iconAssetId>a/fs/dbc0002.png</iconAssetId>
       <id>a658dd40-51aa-11e5-9303-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -54244,7 +54243,7 @@ Collect Superior Lockboxes to unlock Superior Spider-Man</description>
     <item>
       <className>Key</className>
       <description>Allows long-range communication with squirrels and other woodland rodents.</description>
-      <dispName>Blueprint: Squirrely-Talkie</dispName>
+      <dispName>Diagrama: Squirrely-Talkie</dispName>
       <iconAssetId>a/fs/1620015.png</iconAssetId>
       <id>aa398da0-1030-11e3-8e92-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -54763,7 +54762,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>Plans for a prototype assault suit designed by Stark Industries to enhance battlefield movement and target acquisition.</description>
-      <dispName>Blueprint: Scrapper's Aegis Armor</dispName>
+      <dispName>Diagrama: Scrapper's Aegis Armor</dispName>
       <iconAssetId>a/fs/6yy0006.png</iconAssetId>
       <id>ad606fa0-a602-11e2-af34-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -55942,7 +55941,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>Celebrating the Marvel: Avengers Alliance 2 Year Anniversary</description>
-      <dispName>Blueprint: Generalist's Empowered Armor</dispName>
+      <dispName>Diagrama: Generalist's Empowered Armor</dispName>
       <iconAssetId>a/fs/a3r0006.png</iconAssetId>
       <id>b0478760-aba8-11e3-bedb-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -56606,7 +56605,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>Celebrating the Marvel: Avengers Alliance 3 Year Anniversary</description>
-      <dispName>Blueprint: Generalist's Empowered Trench</dispName>
+      <dispName>Diagrama: Generalist's Empowered Trench</dispName>
       <iconAssetId>a/fs/c920002.png</iconAssetId>
       <id>b1f52ad0-c20f-11e4-9180-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57206,7 +57205,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Blaster's Empowered Armor</dispName>
+      <dispName>Diagrama: Blaster's Empowered Armor</dispName>
       <iconAssetId>a/fs/9r00006.png</iconAssetId>
       <id>b30a27d0-95c5-11e3-8e2a-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -57822,7 +57821,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>Designed by Tony Stark and Hank Pym to take advantage of advanced technologies and Iso-8 advancements.</description>
-      <dispName>Blueprint: Bruiser's Infused Techsuit</dispName>
+      <dispName>Diagrama: Bruiser's Infused Techsuit</dispName>
       <iconAssetId>a/fs/e8e0001.png</iconAssetId>
       <id>b644e420-dc0a-11e5-b160-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57834,7 +57833,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Arcane Brew</dispName>
+      <dispName>Diagrama: Arcane Brew</dispName>
       <iconAssetId>a/fs/cgy0002.png</iconAssetId>
       <id>b67356f0-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57846,7 +57845,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Prototype Hi-Tech Gauntlet</dispName>
+      <dispName>Diagrama: Prototype Hi-Tech Gauntlet</dispName>
       <iconAssetId>a/fs/chz0002.png</iconAssetId>
       <id>b676d960-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57881,7 +57880,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Latent Staff of Return</dispName>
+      <dispName>Diagrama: Latent Staff of Return</dispName>
       <iconAssetId>a/fs/chp0002.png</iconAssetId>
       <id>b67a5bd0-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57893,7 +57892,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Adaptive Pistol</dispName>
+      <dispName>Diagrama: Adaptive Pistol</dispName>
       <iconAssetId>a/fs/chu0002.png</iconAssetId>
       <id>b67db730-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57905,7 +57904,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Crystalline Dream</dispName>
+      <dispName>Diagrama: Crystalline Dream</dispName>
       <iconAssetId>a/fs/chm0002.png</iconAssetId>
       <id>b680eb80-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57917,7 +57916,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Staff of Return</dispName>
+      <dispName>Diagrama: Staff of Return</dispName>
       <iconAssetId>a/fs/chx0002.png</iconAssetId>
       <id>b6841fd0-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -57929,7 +57928,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Hi-Tech Gauntlet</dispName>
+      <dispName>Diagrama: Hi-Tech Gauntlet</dispName>
       <iconAssetId>a/fs/chw0002.png</iconAssetId>
       <id>b6877b30-cea7-11e4-80f6-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -58321,7 +58320,7 @@ Collect Inhuman Lockboxes to unlock Thane</description>
     <item>
       <className>Key</className>
       <description>This crystal refracts normally-damaging energy waves into a harmless range of the spectrum.</description>
-      <dispName>Blueprint: Prototype AI</dispName>
+      <dispName>Diagrama: Prototype AI</dispName>
       <iconAssetId>a/fs/6o90006.png</iconAssetId>
       <id>b8ae4e10-86c0-11e2-b530-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -61241,7 +61240,7 @@ Collect Impending Lockboxes to unlock Doctor Doom</description>
     <item>
       <className>Key</className>
       <description>Plans for a prototype stealth suit designed by Stark Industries to counteract defensive maneuvers.</description>
-      <dispName>Blueprint: Infiltrator's Aegis Armor</dispName>
+      <dispName>Diagrama: Infiltrator's Aegis Armor</dispName>
       <iconAssetId>a/fs/6rx0006.png</iconAssetId>
       <id>c3ce6690-90cf-11e2-8a3e-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -62081,7 +62080,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Flash Portal Grenade</dispName>
+      <dispName>Diagrama: Flash Portal Grenade</dispName>
       <iconAssetId>a/fs/cr40002.png</iconAssetId>
       <id>c7fad390-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62093,7 +62092,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Combat Sensor</dispName>
+      <dispName>Diagrama: Combat Sensor</dispName>
       <iconAssetId>a/fs/csp0002.png</iconAssetId>
       <id>c7fe7d10-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62105,7 +62104,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Fleeting Foil</dispName>
+      <dispName>Diagrama: Fleeting Foil</dispName>
       <iconAssetId>a/fs/cso0002.png</iconAssetId>
       <id>c801d870-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62117,7 +62116,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Vigilante Mask</dispName>
+      <dispName>Diagrama: Vigilante Mask</dispName>
       <iconAssetId>a/fs/csr0002.png</iconAssetId>
       <id>c8055ae0-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62129,7 +62128,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Bio-Electric Pistol</dispName>
+      <dispName>Diagrama: Bio-Electric Pistol</dispName>
       <iconAssetId>a/fs/csl0002.png</iconAssetId>
       <id>c808dd50-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62141,7 +62140,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Superior Combat Sensor</dispName>
+      <dispName>Diagrama: Superior Combat Sensor</dispName>
       <iconAssetId>a/fs/csm0002.png</iconAssetId>
       <id>c80c5fc0-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -62153,7 +62152,7 @@ Take reduced damage from damage over time effects</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Relentless Rapier</dispName>
+      <dispName>Diagrama: Relentless Rapier</dispName>
       <iconAssetId>a/fs/csv0002.png</iconAssetId>
       <id>c80fbb20-0bd2-11e5-8635-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63358,7 +63357,7 @@ Required for Witch Set Research</description>
     <item>
       <className>Key</className>
       <description>The alloys Ultron has used can be used to increase the defensive capabilities of our Agents.</description>
-      <dispName>Blueprint: Android Hand</dispName>
+      <dispName>Diagrama: Android Hand</dispName>
       <iconAssetId>a/fs/6wm0006.png</iconAssetId>
       <id>cc9c4400-9c86-11e2-af34-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -63778,7 +63777,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Evolutionary Inhalant</dispName>
+      <dispName>Diagrama: Evolutionary Inhalant</dispName>
       <iconAssetId>a/fs/bcn0002.png</iconAssetId>
       <id>ce1e0b40-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63790,7 +63789,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Nascent Blade</dispName>
+      <dispName>Diagrama: Nascent Blade</dispName>
       <iconAssetId>a/fs/bcd0002.png</iconAssetId>
       <id>ce2166a0-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63802,7 +63801,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Nascent Glaive</dispName>
+      <dispName>Diagrama: Nascent Glaive</dispName>
       <iconAssetId>a/fs/bc70002.png</iconAssetId>
       <id>ce249af0-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63814,7 +63813,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cybernetic Cannon</dispName>
+      <dispName>Diagrama: Cybernetic Cannon</dispName>
       <iconAssetId>a/fs/bcf0002.png</iconAssetId>
       <id>ce27cf40-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63826,7 +63825,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cybernetic Blaster</dispName>
+      <dispName>Diagrama: Cybernetic Blaster</dispName>
       <iconAssetId>a/fs/bc50002.png</iconAssetId>
       <id>ce2b0390-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63838,7 +63837,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cybernetic Glaive</dispName>
+      <dispName>Diagrama: Cybernetic Glaive</dispName>
       <iconAssetId>a/fs/bc80002.png</iconAssetId>
       <id>ce2e37e0-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63851,7 +63850,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Tactician's Safeguard Suit</dispName>
+      <dispName>Diagrama: Tactician's Safeguard Suit</dispName>
       <iconAssetId>a/fs/cj30002.png</iconAssetId>
       <id>ce308e50-d29b-11e4-8490-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63863,7 +63862,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Cybernetic Blade</dispName>
+      <dispName>Diagrama: Cybernetic Blade</dispName>
       <iconAssetId>a/fs/bca0002.png</iconAssetId>
       <id>ce316c30-4452-11e4-9a75-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -63950,7 +63949,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     <item>
       <className>Key</className>
       <description>Stealth Field masks the movement of your team both offensively and defensively</description>
-      <dispName>Blueprint: Stealth Field</dispName>
+      <dispName>Diagrama: Stealth Field</dispName>
       <iconAssetId>a/fs/86n0006.png</iconAssetId>
       <id>cea99660-0af6-11e3-8e92-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -63963,7 +63962,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     <item>
       <className>Key</className>
       <description>Allows creation of the Power Cell</description>
-      <dispName>Blueprint: Power Cell</dispName>
+      <dispName>Diagrama: Power Cell</dispName>
       <iconAssetId>a/fs/87l0006.png</iconAssetId>
       <id>ceae7860-0af6-11e3-8e92-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -63976,7 +63975,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     <item>
       <className>Key</className>
       <description>Allows upgrade of Power Cell to the Power Cell Mk II</description>
-      <dispName>Blueprint: Power Cell Mk II</dispName>
+      <dispName>Diagrama: Power Cell Mk II</dispName>
       <iconAssetId>a/fs/87u0006.png</iconAssetId>
       <id>ceb33350-0af6-11e3-8e92-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -64178,7 +64177,7 @@ Collect Demonic Lockboxes to unlock Satana</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Reed Richards to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Bruiser's Safeguard Suit</dispName>
+      <dispName>Diagrama: Bruiser's Safeguard Suit</dispName>
       <iconAssetId>a/fs/c0c0002.png</iconAssetId>
       <id>d0103390-8617-11e4-8596-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -65266,7 +65265,7 @@ Collect Atomic Lockboxes to unlock Hyperion</description>
     <item>
       <className>Key</className>
       <description>Designed by the world's greatest scientists to take advantage of pieces of the Black Vortex and Iso-8 advancements.</description>
-      <dispName>Blueprint: Infiltrator's Vortex Suit</dispName>
+      <dispName>Diagrama: Infiltrator's Vortex Suit</dispName>
       <iconAssetId>a/fs/f6z0001.png</iconAssetId>
       <id>d42b0200-3e46-11e6-8ee8-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77159,7 +77158,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Vibranium Frag Grenade</dispName>
+      <dispName>Diagrama: Vibranium Frag Grenade</dispName>
       <iconAssetId>a/fs/a7k0006.png</iconAssetId>
       <id>fdb12260-b9cf-11e3-923b-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -77171,7 +77170,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Breaching Pistol</dispName>
+      <dispName>Diagrama: Breaching Pistol</dispName>
       <iconAssetId>a/fs/a8c0006.png</iconAssetId>
       <id>fdb456b0-b9cf-11e3-923b-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -77183,7 +77182,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Breaching Kit</dispName>
+      <dispName>Diagrama: Breaching Kit</dispName>
       <iconAssetId>a/fs/a8c0006.png</iconAssetId>
       <id>fdb763f0-b9cf-11e3-923b-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -77195,7 +77194,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Combat Serum</dispName>
+      <dispName>Diagrama: Combat Serum</dispName>
       <iconAssetId>a/fs/a8j0006.png</iconAssetId>
       <id>fdba7130-b9cf-11e3-923b-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -77263,7 +77262,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Refined Combat Serum</dispName>
+      <dispName>Diagrama: Refined Combat Serum</dispName>
       <iconAssetId>a/fs/a8h0006.png</iconAssetId>
       <id>fdd8cea0-b9cf-11e3-923b-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -77481,7 +77480,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Refined Metaphysical Crystal</dispName>
+      <dispName>Diagrama: Refined Metaphysical Crystal</dispName>
       <iconAssetId>a/fs/f1v0001.png</iconAssetId>
       <id>ff1cca40-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77493,7 +77492,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Staff of Misery</dispName>
+      <dispName>Diagrama: Staff of Misery</dispName>
       <iconAssetId>a/fs/f3d0001.png</iconAssetId>
       <id>ff1ffe90-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77505,7 +77504,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Psyche Persuader</dispName>
+      <dispName>Diagrama: Psyche Persuader</dispName>
       <iconAssetId>a/fs/f3b0001.png</iconAssetId>
       <id>ff23a810-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77517,7 +77516,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Staff of Agony</dispName>
+      <dispName>Diagrama: Staff of Agony</dispName>
       <iconAssetId>a/fs/f3f0001.png</iconAssetId>
       <id>ff26dc60-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77529,7 +77528,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Metaphysical Rifle</dispName>
+      <dispName>Diagrama: Metaphysical Rifle</dispName>
       <iconAssetId>a/fs/f3e0001.png</iconAssetId>
       <id>ff2a85e0-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77541,7 +77540,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Psyche Operator</dispName>
+      <dispName>Diagrama: Psyche Operator</dispName>
       <iconAssetId>a/fs/f3m0001.png</iconAssetId>
       <id>ff2e0850-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -77553,7 +77552,7 @@ Gain a chance to take an extra turn</description>
     </item>
     <item>
       <className>Key</className>
-      <dispName>Blueprint: Metaphysical Amplifier</dispName>
+      <dispName>Diagrama: Metaphysical Amplifier</dispName>
       <iconAssetId>a/fs/f3i0001.png</iconAssetId>
       <id>ff3163b0-3278-11e6-bf6f-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -80757,7 +80756,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>REQUIRES LEVEL 60</description>
-      <dispName>Blueprint: Bruiser's Power Armor</dispName>
+      <dispName>Diagrama: Bruiser's Power Armor</dispName>
       <iconAssetId>a/fs/5ty0007.png</iconAssetId>
       <id>313ad770-4492-11e2-a2ac-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -83442,7 +83441,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>REQUIRES LEVEL 60</description>
-      <dispName>Blueprint: Tactician's Power Armor</dispName>
+      <dispName>Diagrama: Tactician's Power Armor</dispName>
       <iconAssetId>a/fs/6910007.png</iconAssetId>
       <id>3b781ac0-70b3-11e2-afe7-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -83660,7 +83659,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>REQUIRES LEVEL 60</description>
-      <dispName>Blueprint: Infiltrator's Power Armor</dispName>
+      <dispName>Diagrama: Infiltrator's Power Armor</dispName>
       <iconAssetId>a/fs/5k00008.png</iconAssetId>
       <id>401f1120-0f59-11e2-a618-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -90852,7 +90851,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>REQUIRES LEVEL 60</description>
-      <dispName>Blueprint: Scrapper's Power Armor</dispName>
+      <dispName>Diagrama: Scrapper's Power Armor</dispName>
       <iconAssetId>a/fs/5tu0007.png</iconAssetId>
       <id>9c88aaf0-2ad1-11e2-8f84-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -90866,7 +90865,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>REQUIRES LEVEL 60</description>
-      <dispName>Blueprint: Blaster's Power Armor</dispName>
+      <dispName>Diagrama: Blaster's Power Armor</dispName>
       <iconAssetId>a/fs/6920007.png</iconAssetId>
       <id>9e4ee480-5abf-11e2-b3a0-0025906a2be6</id>
       <itemGroup>research key</itemGroup>
@@ -91030,7 +91029,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Infiltrator's Flight Suit</dispName>
+      <dispName>Diagrama: Infiltrator's Flight Suit</dispName>
       <iconAssetId>a/fs/com0002.png</iconAssetId>
       <id>bddf81b0-ff22-11e4-ba11-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -91817,7 +91816,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Tactician's Flight Suit</dispName>
+      <dispName>Diagrama: Tactician's Flight Suit</dispName>
       <iconAssetId>a/fs/f930001.png</iconAssetId>
       <id>cee55900-56c2-11e6-86ab-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -91831,7 +91830,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Blaster's Flight Suit</dispName>
+      <dispName>Diagrama: Blaster's Flight Suit</dispName>
       <iconAssetId>a/fs/f920001.png</iconAssetId>
       <id>ceead740-56c2-11e6-86ab-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -91845,7 +91844,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Bruiser's Flight Suit</dispName>
+      <dispName>Diagrama: Bruiser's Flight Suit</dispName>
       <iconAssetId>a/fs/f980001.png</iconAssetId>
       <id>ceee80c0-56c2-11e6-86ab-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -91859,7 +91858,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Scrapper's Flight Suit</dispName>
+      <dispName>Diagrama: Scrapper's Flight Suit</dispName>
       <iconAssetId>a/fs/f950001.png</iconAssetId>
       <id>cef22a40-56c2-11e6-86ab-065676001937</id>
       <itemGroup>research key</itemGroup>
@@ -91873,7 +91872,7 @@ Gain a chance to take an extra turn</description>
     <item>
       <className>Key</className>
       <description>Plans for armor designed by Tony Stark to take advantage of advanced technologies.</description>
-      <dispName>Blueprint: Generalist's Flight Suit</dispName>
+      <dispName>Diagrama: Generalist's Flight Suit</dispName>
       <iconAssetId>a/fs/f970001.png</iconAssetId>
       <id>cef5acb0-56c2-11e6-86ab-065676001937</id>
       <itemGroup>research key</itemGroup>
